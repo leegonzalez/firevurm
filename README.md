@@ -1,2 +1,2 @@
-# firevurm
+# humbledeeds
 A game about Revolution.
